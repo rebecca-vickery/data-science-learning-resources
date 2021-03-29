@@ -12,7 +12,7 @@ A comprehensive list of free resources for learning data science
 **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter1/)** \
 **[Python for Everybody](https://www.py4e.com/book.php)** \
 **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)** \
-**[Introduction to Machine Learning with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)** \
+**[Introduction to Machine Learning with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)** 
 
 ## Machine learning
 
