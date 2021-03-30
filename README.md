@@ -18,7 +18,7 @@ A comprehensive list of free resources for learning data science
 
 ### Courses/Tutorials
 
-**[Scikit-learn workshop](https://www.example.com)** material by Andreas Mueller, core contributor to Scikit-learn.\
+**[Scikit-learn workshop](https://github.com/amueller/ml-workshop-1-of-4)** material by Andreas Mueller, core contributor to Scikit-learn.\
 **[Applied Machine Learning](https://github.com/amueller/COMS4995-s19)** material from Columbia University.
 
 ### Books
