@@ -33,6 +33,7 @@ A comprehensive list of free resources for learning data science.
 ### Books
 * **[Natural Language Processing with Python](http://www.nltk.org/book_1ed/)**. 
 * **[Hands on Machine Learning with Scikit-learn and Tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)**.
+* **[A curated list of widely cited papers on machine learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)**.
 
 ## Deep Learning
 
