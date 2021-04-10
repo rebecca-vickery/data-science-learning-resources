@@ -9,6 +9,7 @@ A comprehensive list of free resources for learning data science.
 * **[Datacamp](https://learn.datacamp.com/courses)** selected free courses. 
 * **[Dataquest](https://www.dataquest.io/)** free trial. 
 * A really good **[tutorial on OOP for data science](https://opendatascience.com/an-introduction-to-object-oriented-data-science-in-python/)**.
+* **[CS50x Harvard Introduction to Computer Science](https://cs50.harvard.edu/x/2020/)**.
 
 ### Books
 
