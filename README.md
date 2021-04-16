@@ -10,14 +10,15 @@ A comprehensive list of free resources for learning data science.
 * **[Dataquest](https://www.dataquest.io/)** free trial. 
 * A really good **[tutorial on OOP for data science](https://opendatascience.com/an-introduction-to-object-oriented-data-science-in-python/)**.
 * **[CS50x Harvard Introduction to Computer Science](https://cs50.harvard.edu/x/2020/)**.
+* **[https://realpython.com/](https://cs50.harvard.edu/x/2020/)**.
 
 ### Books
 
 * **[The Hitchhiker's Guide to Python](https://docs.python-guide.org)**. 
 * **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter1/)**. 
 * **[Python for Everybody](https://www.py4e.com/book.php)**. 
-* **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)**. 
-* **[Introduction to Machine Learning with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)**. 
+* **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)**.
+* **[Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)**. 
 
 ## Machine Learning
 
@@ -28,13 +29,17 @@ A comprehensive list of free resources for learning data science.
 * **[Applied machine Learning](https://github.com/amueller/COMS4995-s19)** material from Columbia University. 
 * **[Machine learning with python](https://github.com/tirthajyoti/Machine-Learning-with-Python)** github repo with numerous tutorials. 
 * **[Notes on data science & machine learning](https://chrisalbon.com)** by Chris Albon.
-* **[Machine lerning (theory) flashcards](https://github.com/gmaclenn/ml-flashcards-python/tree/master/flashcards)** by Chris Albon. 
+* **[Machine learning (theory) flashcards](https://github.com/gmaclenn/ml-flashcards-python/tree/master/flashcards)** by Chris Albon. 
 * **[Introduction to Machine Learning with Scikit-learn](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)**.
+* **[Introduction to Natural Language processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)**.
+* **[Kaggle Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)**.
+
 
 ### Books
 * **[Natural Language Processing with Python](http://www.nltk.org/book_1ed/)**. 
 * **[Hands on Machine Learning with Scikit-learn and Tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)**.
 * **[A curated list of widely cited papers on machine learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)**.
+* **[Introduction to Machine Learning with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)**. 
 
 ## Deep Learning
 
@@ -50,9 +55,14 @@ A comprehensive list of free resources for learning data science.
 
 ### Courses/Tutorials
 
+* **[From 0 to Research Scientist Resource Guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)**.
+* **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)**.
+* **[Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)**.
+* **[Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)**.
+
 ### Books
 
-* **[Practical Statistics for Data Scientists](http://www.gbv.de/dms/ilmenau/toc/875077277.PDF)**. 
+* **[Practical Statistics for Data Scientists](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Practical%20Statistics%20for%20Data%20Scientists.pdf)**. 
 * **[Think Stats](https://greenteapress.com/thinkstats/)**. 
 * **[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)**. 
 * **[Statistics in Plain English](https://www.book2look.com/embed/9781317526988)**. 
