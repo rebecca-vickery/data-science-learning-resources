@@ -31,7 +31,6 @@ A comprehensive list of free resources for learning data science.
 * **[Notes on data science & machine learning](https://chrisalbon.com)** by Chris Albon.
 * **[Machine learning (theory) flashcards](https://github.com/gmaclenn/ml-flashcards-python/tree/master/flashcards)** by Chris Albon. 
 * **[Introduction to Machine Learning with Scikit-learn](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)**.
-* **[Introduction to Natural Language processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)**.
 * **[Kaggle Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)**.
 * **[Scikit-learn Course](https://inria.github.io/scikit-learn-mooc/ml_concepts/slides.html)**.
 
@@ -40,6 +39,19 @@ A comprehensive list of free resources for learning data science.
 * **[Hands on Machine Learning with Scikit-learn and Tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)**.
 * **[A curated list of widely cited papers on machine learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)**.
 * **[Introduction to Machine Learning with Python](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)**. 
+
+## Natural Language Processing
+
+### Courses/Tutorials
+
+* **[Introduction to Natural Language processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)**.
+* **[Awesome NLP](https://github.com/keon/awesome-nlp)** curated list of tutorials and articles.
+
+### Books
+
+* **[Introduction to Natural Language Processing](https://london.ac.uk/sites/default/files/study-guides/introduction-to-natural-language-processing.pdf)**
+* **[Natural Language Processing with Python](https://www.nltk.org/book/)**
+
 
 ## Deep Learning
 
