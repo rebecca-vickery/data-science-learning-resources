@@ -33,7 +33,7 @@ A comprehensive list of free resources for learning data science.
 * **[Introduction to Machine Learning with Scikit-learn](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)**.
 * **[Introduction to Natural Language processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)**.
 * **[Kaggle Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)**.
-
+* **[Scikit-learn Course](https://inria.github.io/scikit-learn-mooc/ml_concepts/slides.html)**.
 
 ### Books
 * **[Natural Language Processing with Python](http://www.nltk.org/book_1ed/)**. 
