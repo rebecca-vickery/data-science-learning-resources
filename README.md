@@ -11,6 +11,7 @@ A comprehensive list of free resources for learning data science.
 * A really good **[tutorial on OOP for data science](https://opendatascience.com/an-introduction-to-object-oriented-data-science-in-python/)**.
 * **[CS50x Harvard Introduction to Computer Science](https://cs50.harvard.edu/x/2020/)**.
 * **[https://realpython.com/](https://cs50.harvard.edu/x/2020/)**.
+* **[Pandas basics](https://pandasguide.readthedocs.io/en/latest/Pandas/basic.html)**.
 
 ### Books
 
@@ -19,6 +20,12 @@ A comprehensive list of free resources for learning data science.
 * **[Python for Everybody](https://www.py4e.com/book.php)**. 
 * **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)**.
 * **[Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)**. 
+
+## Data science general
+
+### Courses/Tutorials
+
+* **[Microsoft course Data-science-for-beginners](https://github.com/microsoft/Data-Science-For-Beginners)**.
 
 ## Machine Learning
 
@@ -33,6 +40,8 @@ A comprehensive list of free resources for learning data science.
 * **[Introduction to Machine Learning with Scikit-learn](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)**.
 * **[Kaggle Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)**.
 * **[Scikit-learn Course](https://inria.github.io/scikit-learn-mooc/ml_concepts/slides.html)**.
+* **[Microsoft course ML-for-beginners](https://github.com/microsoft/ML-For-Beginners)**.
+
 
 ### Books
 * **[Natural Language Processing with Python](http://www.nltk.org/book_1ed/)**. 
