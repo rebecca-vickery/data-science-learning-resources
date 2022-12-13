@@ -67,6 +67,7 @@ A comprehensive list of free resources for learning data science.
 ### Courses/Tutorials
 
 * **[FastAI](https://course.fast.ai)** practical deep learning for coders.
+* **[Scaler Topics](https://www.scaler.com/topics/what-is-deep-learning/)** Deep learning.
 
 ### Books
 
@@ -80,6 +81,7 @@ A comprehensive list of free resources for learning data science.
 * **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)**.
 * **[Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)**.
 * **[Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)**.
+* 
 
 ### Books
 
